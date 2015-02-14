@@ -1,5 +1,5 @@
 {
-    "name": "confjs",
+    "name": "mb-conf",
     "version": "0.0.1",
     "description": "Super-lightweight config library for JavaScript",
     "main": "lib/config.js",
