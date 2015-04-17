@@ -2,7 +2,7 @@
     "name": "mb-conf",
     "version": "0.0.1",
     "description": "Super-lightweight config library for JavaScript",
-    "main": "lib/config.js",
+    "main": "lib/conf.js",
     "devDependencies": {
         "karma": "^0.12.12",
         "karma-chrome-launcher": "^0.1.3",
