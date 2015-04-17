@@ -1,6 +1,6 @@
 {
     "name": "mb-conf",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Super-lightweight config library for JavaScript",
     "main": "lib/conf.js",
     "devDependencies": {
